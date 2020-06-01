@@ -1,2 +1,2 @@
-# React-basics
+# Simple TO DO app
  
